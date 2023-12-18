@@ -1,0 +1,10 @@
+package Enums;
+
+enum Status {
+    IN_PROGRESS,
+    FINISHED,
+    APPOINTMENT_ARRANGED,
+    REWORKS,
+    AWAITING_PAYMENT,
+    COMPLETED
+}

@@ -1,20 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="77f1c759-0a63-4f3b-bed0-d377a5089073" name="Changes" comment="" />
+    <list default="true" id="77f1c759-0a63-4f3b-bed0-d377a5089073" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/AccessLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/PaymentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/ProductStyle_Holes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/ProductStyle_Toes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/ProductStyle_Top.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/ProductStyle_Zip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/InvoiceLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Leather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Measurements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/OrderLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/ProductType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Repair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/RepairCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/RepairLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/LoginScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/MenuScreen_Accountant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/MenuScreen_Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/NewCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/NewMeasurement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/NewOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/NewRepair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/Repair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ApplicationLoader.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
   <component name="ProjectId" id="2ZibEsHyGfLoVH1S7uzfdX9hYAw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,11 +77,30 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "MVC__deploy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="ApplicationLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ApplicationLoader" />
+      <module name="DB_Coursework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApplicationLoader" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,8 +109,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702907739239</updated>
-      <workItem from="1702907740251" duration="4000" />
+      <workItem from="1702907740251" duration="1916000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
